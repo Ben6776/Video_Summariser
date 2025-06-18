@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+moviepy
+git+https://github.com/openai/whisper.git
+transformers
+torch
+torchvision
+pillow
+python-multipart
