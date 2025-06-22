@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+venv/
+env/
+
+# VSCode settings (optional)
+.vscode/
+
+# Hugging Face token and other secrets
+.env
+
+# Temporary files
+temp/
